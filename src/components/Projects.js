@@ -12,9 +12,10 @@ const Projects = () => {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            I have builds some web apps using Reactjs, react-router, redux,
+            react-redux, redux-toolkit, bootstrap, react-bootstrap, Vuejs,
+            vue-router, vuex, bootstrap-vue, tailwindCSS, material ui, frontend
+            validation, responsive design, and reusable components.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
