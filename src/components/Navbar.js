@@ -1,7 +1,7 @@
 import { ArrowRightIcon } from '@heroicons/react/solid'
 import React from 'react'
 
-export default function Navbar() {
+const Navbar = () => {
   return (
     <header className="bg-gray-800 md:sticky top-0 z-10">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
@@ -32,3 +32,5 @@ export default function Navbar() {
     </header>
   )
 }
+
+export default Navbar

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Contact() {
+const Contact = () => {
   const [name, setName] = React.useState('')
   const [email, setEmail] = React.useState('')
   const [message, setMessage] = React.useState('')
@@ -125,3 +125,5 @@ export default function Contact() {
     </section>
   )
 }
+
+export default Contact
