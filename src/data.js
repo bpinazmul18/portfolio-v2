@@ -21,3 +21,5 @@ export const skills = [
   'TailwindCSS',
   'Material UI',
 ]
+
+export const testimonials = []
