@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Project Title',
+    title: 'Marketplace for RacewayX Games',
     subtitle: 'Frontend Stack',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
+      'Collect Rex tokens, purchase and tune new cars, buy cars to your garage for your collection to start racing for fortune!',
     image: './project-1.gif',
-    link: 'https://reactbootcamp.com',
+    link: 'https://digsea.netlify.app/',
   },
 ]
 
