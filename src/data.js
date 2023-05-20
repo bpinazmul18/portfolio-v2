@@ -72,4 +72,11 @@ export const testimonials = [
     name: 'Akintayo Kolade',
     company: 'RacewayX Games',
   },
+  {
+    id: 3,
+    quote: 'He did an extremely good job and delivered the result perfectly',
+    image: './avatar.svg',
+    name: 'Oliver Bachmann',
+    company: 'mindorb',
+  },
 ]
