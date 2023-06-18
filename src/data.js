@@ -5,7 +5,7 @@ export const projects = [
     description:
       'aayazz.com is the largest online bookstore in Bangladesh. Buy Novel, Story, Islamic, Computer Programming, Children, West Bengal, Fiction, Non fiction, Medical, Engineering, Gift cards & Text books from the biggest selection of Bangla books at lowest price. Cash on delivery, Happy return policy & Free shipping offer available. Shop Now! note: This site under development',
     image: './aayazz.png',
-    link: '#',
+    link: 'https://aayaaz.com/',
   },
   {
     title: 'ই-দোকান',
@@ -13,7 +13,7 @@ export const projects = [
     description:
       'আমাদের এই ডিজিটাল কমার্স পোর্টালটি একাধারে একটি কৃষকের বাজার ও পাইকারী হাট এবং অন্যপক্ষে একটি ভোক্তা চাহিদার সমষ্টিকারী ও বিক্রেতাদের সমন্বয়কারী একটি প্ল্যাটফর্ম। এটা একটা পরিপূর্ণ বাজার ব্যবস্থার ইকোসিস্টেম যা বর্তমানের প্রতিষ্ঠিত ও প্রচলিত বাজার ব্যবস্থাকে ডিজিটাল পদ্ধতিতে সম্পাদনা করে।',
     image: './kreta-store.png',
-    link: 'https://kreta.store/',
+    link: 'https://dev-w.pallabi.com.bd/',
   },
   {
     title: 'React.js redux expert',
