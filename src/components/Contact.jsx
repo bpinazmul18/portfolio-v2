@@ -1,9 +1,9 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 const Contact = () => {
-  const [name, setName] = React.useState('')
-  const [email, setEmail] = React.useState('')
-  const [message, setMessage] = React.useState('')
+  const [name, setName] = useState('')
+  const [email, setEmail] = useState('')
+  const [message, setMessage] = useState('')
 
   function encode(data) {
     return Object.keys(data)
@@ -39,7 +39,7 @@ const Contact = () => {
             style={{ filter: 'opacity(0.7)' }}
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116834.15093167813!2d90.34924182813288!3d23.780620653383682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8b087026b81%3A0x8fa563bbdd5904c2!2sDhaka!5e0!3m2!1sen!2sbd!4v1664898378844!5m2!1sen!2sbd"
           />
-          <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md" style={{ width: 'inherit'}}>
+          <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md" style={{ width: 'inherit' }}>
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
