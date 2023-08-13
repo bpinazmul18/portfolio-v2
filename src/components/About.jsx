@@ -9,7 +9,7 @@ const About = () => (
           apps.
         </h1>
         <p className="mb-8 leading-relaxed">
-          I'm a Front-end developer with more than two years of experience in
+          I'm a Front-end developer with more than 3 years of experience in
           the software industry, specialized in ReactJS and VueJS. My ambition
           is improving or writing scalable, secure & maintainable software.
           I'm constantly looking for interesting and challenging projects to

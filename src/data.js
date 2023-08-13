@@ -1,5 +1,13 @@
 export const projects = [
     {
+        title: 'Hishabee',
+        subtitle: 'Frontend Stack (NextJS)',
+        description:
+            'Hishabee web app is the larget online business for the retailer, merchant and small shop. Almost 15M user used in our web app daily',
+        image: './hishabee.png',
+        link: 'https://distibutor-web-design.vercel.app/',
+    },
+    {
         title: 'AAYAZZ',
         subtitle: 'Frontend Stack (NextJS)',
         description:
@@ -21,7 +29,7 @@ export const projects = [
         description:
             'Fixed React.js Fiber application with redux store which has stooped working. Fixed React Dev Tools issue for this project. And setup store properly.',
         image: './undraw_bug_fixing_oc7a.png',
-        link: '#',
+        link: `javascript:void()`,
     },
     {
         title: 'Marketplace for RacewayX Games',
@@ -37,7 +45,7 @@ export const projects = [
         description:
             'Convert figma to react typescipt lading page, using react, react-bootstrap, react-router, api call, axios, data visualization, form and responsive design.',
         image: './hype-scout.gif',
-        link: 'https://digsea.netlify.app/',
+        link: `javascript:void()`,
     },
 ]
 
