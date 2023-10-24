@@ -5,7 +5,7 @@ export const projects = [
         description:
             'Hishabee web app is the larget online business for the retailer, merchant and small shop. Almost 15M user used in our web app daily',
         image: './hishabee.png',
-        link: 'https://distibutor-web-design.vercel.app/',
+        link: 'https://paikari.hishabee.business/',
     },
     {
         title: 'AAYAZZ',
