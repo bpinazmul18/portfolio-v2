@@ -5,7 +5,7 @@ export const projects = [
         description:
             'Hishabee web app is the larget online business for the retailer, merchant and small shop. Almost 15M user used in our web app daily',
         image: './hishabee.png',
-        link: 'https://paikari.hishabee.business/',
+        link: 'https://paikari.hishabee.io/',
     },
     {
         title: 'AAYAZZ',
@@ -21,7 +21,7 @@ export const projects = [
         description:
             'আমাদের এই ডিজিটাল কমার্স পোর্টালটি একাধারে একটি কৃষকের বাজার ও পাইকারী হাট এবং অন্যপক্ষে একটি ভোক্তা চাহিদার সমষ্টিকারী ও বিক্রেতাদের সমন্বয়কারী একটি প্ল্যাটফর্ম। এটা একটা পরিপূর্ণ বাজার ব্যবস্থার ইকোসিস্টেম যা বর্তমানের প্রতিষ্ঠিত ও প্রচলিত বাজার ব্যবস্থাকে ডিজিটাল পদ্ধতিতে সম্পাদনা করে।',
         image: './kreta-store.png',
-        link: 'https://dev-w.pallabi.com.bd/',
+        link: 'javascript:void()',
     },
     {
         title: 'React.js redux expert',
